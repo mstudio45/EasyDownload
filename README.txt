@@ -1,4 +1,4 @@
-Thank you for using EasyDownload by mstudio45. This is the ORIGINAL source.
+Thank you for using EasyDownload by mstudio45. ORIGINAL SOURCE: https://github.com/mstudio45/EasyDownload
 
                                      [ HOW TO INSTALL ]
 1. You need to install FFmpeg. -> https://www.ffmpeg.org/download.html#build-windows
