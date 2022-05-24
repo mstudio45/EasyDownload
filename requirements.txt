@@ -1,0 +1,4 @@
+wheel
+click
+yt-dlp
+colorama
