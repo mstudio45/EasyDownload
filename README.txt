@@ -9,11 +9,11 @@ Thank you for using EasyDownload by mstudio45. This is the ORIGINAL source.
   Skip this if you have 'pip' installed.
   First run command 'py -3 -m ensurepip' in cmd with Administrator.
   If the command error install https://bootstrap.pypa.io/get-pip.py and then
-  run 'python get-pip.py' in cmd with Administrator. MAKE SURE THE CMD IS IN SAME DIRECTORY AS THE get-pip-py FILE!
+  run 'python get-pip.py' in cmd with Administrator. MAKE SURE THE COMMAND IS RUNNING IN SAME DIRECTORY AS THE 'get-pip-py' FILE
 
 3. Install packages.
- Run 'pip install -r requirements.txt' in cmd.
- If you have python 3 run 'python3 -m pip install -r requirements.txt' in cmd.
+ Run 'pip install -r requirements.txt' in cmd. MAKE SURE THE COMMAND IS RUNNING IN SAME DIRECTORY AS THE 'requirements.txt' FILE
+ If you have python 3 run 'python3 -m pip install -r requirements.txt' in cmd. MAKE SURE THE COMMAND IS RUNNING IN SAME DIRECTORY AS THE 'requirements.txt' FILE
  If you have any issue run 'yt-dlp -U' in cmd.
 
                                      [ CHANGELOG ]
