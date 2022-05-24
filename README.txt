@@ -1,4 +1,5 @@
-Thank you for using EasyDownload by mstudio45. This is the ORIGINAL source. 
+Thank you for using EasyDownload by mstudio45. This is the ORIGINAL source.
+
                                      [ HOW TO INSTALL ]
 1. You need to install FFmpeg. -> https://www.ffmpeg.org/download.html#build-windows
   After you installed FFmpeg, extract the zip/7z and copy all files from 'bin' folder
