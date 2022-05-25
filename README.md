@@ -16,8 +16,8 @@ EasyDownload is only for Windows.<br />
   Run `yt-dlp -U` in cmd if you have any problems.<br />
 
 ## UPDATE
-1a. Run 'EasyDownloadUpdater.bat'.
-1b. If the file is missing [click here for the zip file](https://github.com/mstudio45/EasyDownload/archive/refs/heads/main.zip).
+1a. Run 'EasyDownloadUpdater.bat'.<br />
+1b. If the file is missing [click here for the zip file](https://github.com/mstudio45/EasyDownload/archive/refs/heads/main.zip).<br />
 
 ## CHANGELOG
 2.0.0 - Added Facebook download, Search download.<br />
