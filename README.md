@@ -21,6 +21,7 @@ EasyDownload is only for Windows.<br />
 
 ## CHANGELOG
 2.0.0 - Added Facebook download, Search download.<br />
+3.0.0 - Bug Fixes, Folder creating fixed.<br />
 
 ## How to setup FFmpeg
 Go to https://github.com/yt-dlp/FFmpeg-Builds/wiki/Latest#latest-autobuilds and download ffmpeg for your software.<br />
