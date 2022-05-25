@@ -10,7 +10,7 @@ EasyDownload is only for Windows.<br />
 2. pip command installing.<br />
   [Click here for tutorial on stackoverflow.com](https://stackoverflow.com/questions/4750806/how-can-i-install-pip-on-windows)<br />
 
-3. Install the packages.<br />
+3. Install the packages.(skip if you have 'pip' already installed)<br />
   In cmd, type `pip install -r requirements.txt`. CHECK THAT THE COMMAND IS RUNNING IN THE SAME DIRECTORY AS THE 'requirements.txt' FILE.<br />
   Run `python3 -m pip install -r requirements.txt` in cmd if you have Python 3. CHECK THAT THE COMMAND IS RUNNING IN THE SAME DIRECTORY AS THE 'requirements.txt' FILE.<br />
   Run `yt-dlp -U` in cmd if you have any problems.<br />
