@@ -1,14 +1,14 @@
 ## EasyDownload
 Download video(s)/playlist(s) from web sites easily for you. <br />
 Thank you for using EasyDownload by mstudio45. ORIGINAL SOURCE: https://github.com/mstudio45/EasyDownload <br />
-EasyDownload is only for Windows. I don't know how to make linux/mac applications. <br />
+EasyDownload is only for Windows.<br />
 
 # HOW TO INSTALL
 1. You need to install FFmpeg.<br />
-  [Click Here](https://github.com/mstudio45/EasyDownload#how-to-setup-ffmpeg) <br />
+  [Click Here for tutorial](https://github.com/mstudio45/EasyDownload#how-to-setup-ffmpeg) <br />
 
 2. pip command installing.<br />
-  [Tutorial on stackoverflow.com)[https://stackoverflow.com/questions/4750806/how-can-i-install-pip-on-windows] <br />
+  [Click here for tutorial on stackoverflow.com](https://stackoverflow.com/questions/4750806/how-can-i-install-pip-on-windows)<br />
 
 3. Install the packages.<br />
   In cmd, type pip install -r requirements.txt. CHECK THAT THE COMMAND IS RUNNING IN THE SAME DIRECTORY AS THE 'requirements.txt' FILE.<br />
@@ -19,8 +19,8 @@ EasyDownload is only for Windows. I don't know how to make linux/mac application
 2.0.0 - Added Facebook download, Search download.<br />
 
 # How to setup FFmpeg
-Go to https://github.com/yt-dlp/FFmpeg-Builds/wiki/Latest#latest-autobuilds and download ffmpeg for your software.
-Then follow these steps:
+Go to https://github.com/yt-dlp/FFmpeg-Builds/wiki/Latest#latest-autobuilds and download ffmpeg for your software.<br />
+Then follow these steps:<br />
 ![1](https://user-images.githubusercontent.com/69036065/170269277-fb50626f-9837-4c09-96f1-083a8d1649ba.png)<br />
 ![2](https://user-images.githubusercontent.com/69036065/170269298-84b8ebf6-d1fc-471a-9cca-81f693c5a2cd.png)<br />
 ![3](https://user-images.githubusercontent.com/69036065/170269301-72600b6d-3811-4fe4-afc8-244a339947b9.png)<br />
