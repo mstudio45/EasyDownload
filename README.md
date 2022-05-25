@@ -1,9 +1,9 @@
-## EasyDownload
+# EasyDownload
 Download video(s)/playlist(s) from web sites easily for you. <br />
 Thank you for using EasyDownload by mstudio45. ORIGINAL SOURCE: https://github.com/mstudio45/EasyDownload <br />
 EasyDownload is only for Windows.<br />
 
-# HOW TO INSTALL
+## HOW TO INSTALL
 1. You need to install FFmpeg.<br />
   [Click Here for tutorial](https://github.com/mstudio45/EasyDownload#how-to-setup-ffmpeg) <br />
 
@@ -15,10 +15,14 @@ EasyDownload is only for Windows.<br />
   Run `python3 -m pip install -r requirements.txt` in cmd if you have Python 3. CHECK THAT THE COMMAND IS RUNNING IN THE SAME DIRECTORY AS THE 'requirements.txt' FILE.<br />
   Run `yt-dlp -U` in cmd if you have any problems.<br />
 
-# CHANGELOG
+## UPDATE
+1a. Run 'EasyDownloadUpdater.bat'.
+1b. If the file is missing [click here for the zip file](https://github.com/mstudio45/EasyDownload/archive/refs/heads/main.zip).
+
+## CHANGELOG
 2.0.0 - Added Facebook download, Search download.<br />
 
-# How to setup FFmpeg
+## How to setup FFmpeg
 Go to https://github.com/yt-dlp/FFmpeg-Builds/wiki/Latest#latest-autobuilds and download ffmpeg for your software.<br />
 Then follow these steps:<br />
 ![1](https://user-images.githubusercontent.com/69036065/170269277-fb50626f-9837-4c09-96f1-083a8d1649ba.png)<br />
